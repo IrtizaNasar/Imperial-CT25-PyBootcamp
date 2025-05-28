@@ -2,8 +2,8 @@
 This is a basic Introduction to Python for the MSc CleanTech Innovation students at Imperial College London.
 
 Two core areas of foucs:
-1. <b>Session 01 - Programming Fundamentals:</b> <br>Variables, data types, control structures, functions and error handling.
-2. <b>Session 02 - Interactive Applications:</b> <br>Building User Interfaces with Python GUI Frameworks and Integrating Dynamixel Smart Servos
+<b>Session 01 - Programming Fundamentals:</b> <br>Variables, data types, control structures, functions and error handling.
+<b>Session 02 - Interactive Applications:</b> <br>Building User Interfaces with Python GUI Frameworks and Integrating Dynamixel Smart Servos
 <br></br>
 
 
