@@ -1,5 +1,5 @@
 # Python-Bootcamp-2025
-This is a basic Introduction to Python for the MSc CleanTech Innovation students at Imperial College London.
+This is a basic Introduction to Python for the [MSc CleanTech Innovation](https://cleantech-imperial.co.uk/) students at Imperial College London.
 
 Two core areas of foucs:
 - <b>Session 01 - Programming Fundamentals:</b> <br>Variables, data types, control structures, functions and error handling.
