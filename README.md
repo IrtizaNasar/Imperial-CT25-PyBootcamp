@@ -61,7 +61,7 @@ Note: You can also use the Command Palette (MacOS - Cmd+Shift+X) and search for 
 You can run Jupyter Notebooks directly in your web browser. Here's how:
 1. Open your terminal
 2. Activate your Conda environment:
-```conda activate dipcc```
+```conda activate cleantech```
 3. Launch Jupyter Notebook:
 ```jupyter notebook```
 
