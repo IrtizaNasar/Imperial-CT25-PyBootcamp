@@ -4,7 +4,7 @@ This is a basic Introduction to Python for the [MSc CleanTech Innovation](https:
 Two core areas of foucs:
 - <b>Session 01 - Programming Fundamentals:</b> <br>Variables, data types, control structures, functions and error handling.
 
-- <b>Session 02 - Interactive Applications:</b> <br>Building User Interfaces with Python GUI Frameworks and Integrating Dynamixel Smart Servos
+- <b>Session 02 - Interactive Applications:</b> <br>Building User Interfaces with Python GUI Frameworks and Integrating [Dynamixel Smart Servos - XL-330](https://emanual.robotis.com/docs/en/dxl/x/xl330-m288/)
 <br></br>
 
 
